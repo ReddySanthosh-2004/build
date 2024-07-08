@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d5df6b24.css",
+    "main.js": "/static/js/main.a17e45c0.js",
+    "static/media/dog_Home_2.jpg": "/static/media/dog_Home_2.87c8436418484b9212fe.jpg",
+    "index.html": "/index.html",
+    "main.d5df6b24.css.map": "/static/css/main.d5df6b24.css.map",
+    "main.a17e45c0.js.map": "/static/js/main.a17e45c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5df6b24.css",
+    "static/js/main.a17e45c0.js"
+  ]
+}
